@@ -98,7 +98,7 @@ const Index = () => {
           <h1 className="text-6xl font-bold text-foreground mb-6 leading-tight">
             Unified Alumni
             <span className="bg-gradient-primary bg-clip-text text-transparent block">
-              Interface Platform
+              Interface
             </span>
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto mb-12 leading-relaxed">
