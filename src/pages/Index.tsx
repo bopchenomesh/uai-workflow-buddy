@@ -96,7 +96,7 @@ const Index = () => {
       <section className="py-20 px-6">
         <div className="max-w-7xl mx-auto text-center animate-fade-in">
           <h1 className="text-6xl font-bold text-foreground mb-6 leading-tight">
-            University Alumni
+            Unified Alumni
             <span className="bg-gradient-primary bg-clip-text text-transparent block">
               Interface Platform
             </span>
@@ -181,7 +181,7 @@ const Index = () => {
             <span className="text-xl font-bold text-foreground">UAI Platform</span>
           </div>
           <p className="text-muted-foreground">
-            © 2024 University Alumni Interface. Empowering educational communities worldwide.
+            © 2025 Unified Alumni Interface. Empowering educational communities worldwide.
           </p>
         </div>
       </footer>

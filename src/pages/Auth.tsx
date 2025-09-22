@@ -59,7 +59,7 @@ const Auth = () => {
             <Users className="w-10 h-10 text-primary" />
           </div>
           <h1 className="text-5xl font-bold text-white mb-4">
-            University Alumni Interface
+            Unified Alumni Interface
           </h1>
           <p className="text-xl text-white/90 max-w-2xl mx-auto">
             Choose your access portal to connect with your university community
